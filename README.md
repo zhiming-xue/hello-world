@@ -1,2 +1,6 @@
 # hello-world
-Just a test
+
+Hi, man!
+
+This is a example of github. There are various popular projects in github.
+
